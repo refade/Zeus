@@ -135,10 +135,79 @@ Norman |	0 |	0.01 |	99.99 |
 
 ###### Table 2 Miscellaneous classifications of commercial antiviruses:
 
-Antivírus | VirusShare_001627d61a1bde3478ca4965e738dc1e | VirusShare_075efef8c9ca2f675be296d5f56406fa | VirusShare_0dab86f850fd3dafc98d0f2b401377d5
---------- | ------------------------------------------- | ------------------------------------------- | --------------------------------------------
-
-
+Antivírus | VirusShare_0000204fd1337637ed400305e0082940 | VirusShare_002e498ae7abc8465dede81943f7557d | VirusShare_002d8c9201971059f23173a098f2c430
+--------- | ------------- | ------------------ | -------------
+Acronis | null |null |suspicious |
+Ad-Aware | Trojan.Dropper.WYO |null |Gen:Variant.Mikey.66498 |
+AhnLab-V3 | Win-Trojan/Agent.700416.DW |null |Spyware/Win32.Zbot.R25976 |
+Alibaba | TrojanSpy:Win32/PWSZbot.76413eaf |Worm:Win32/Gamarue.266089bc |VirTool:Win32/Injector.f1f6d212 |
+ALYac | Trojan.Dropper.WYO |Gen:Variant.Ser.Razy.7042 |Gen:Variant.Mikey.66498 |
+Antiy-AVL | Trojan[Spy]/Win32.Zbot |Trojan[Backdoor]/Win32.Androm.a |Trojan[Spy]/Win32.Zbot |
+APEX | Malicious |Malicious |Malicious |
+Arcabit | Trojan.Dropper.WYO |Trojan.Ser.Razy.D1B82 |Trojan.Mikey.D103C2 |
+Avast | Win32:Malware-gen |Sf:Citadel-A [Trj] |Win32:Citadel [Trj] |
+AVG | Win32:Malware-gen |Sf:Citadel-A [Trj] |Win32:Citadel [Trj] |
+Avira | TR/Rogue.700416.2 |WORM/Gamarue.itza |TR/Crypt.ZPACK.Gen2 |
+Baidu | null |null |null |
+BitDefender | Trojan.Dropper.WYO |Gen:Variant.Ser.Razy.7042 |Gen:Variant.Mikey.66498 |
+BitDefenderTheta | AI:Packer.6A7612301F |AI:Packer.2E3E93F71E |Gen:NN.ZexaF.34590.oqX@aKxw4Chc |
+Bkav | W32.Common.82DFDB92 |W32.AIDetect.malware1 |null |
+CAT-QuickHeal | TrojanPWS.Zbot.J5 |Worm.Gamarue.I1 |Trojan.Generic |
+ClamAV | Win.Trojan.Zbot-57541 |Win.Trojan.Gamarue-6986405-0 |Win.Trojan.Zbot-22540 |
+CMC | null |null |null |
+Comodo | TrojWare.Win32.Zbot.VAA@5abhvp |TrojWare.Win32.Kryptik.AFJS@4p06v2 |TrojWare.Win32.Kryptik.ADEV@4p1shw |
+CrowdStrike | win/malicious_confidence_90% (W) |null |win/malicious_confidence_100% (W) |
+Cybereason | malicious.fd1337 |malicious.ae7abc |malicious.201971 |
+Cylance | Unsafe |Unsafe |Unsafe |
+Cynet | Malicious (score: 100) |Malicious (score: 85) |Malicious (score: 100) |
+Cyren | W32/Trojan.TORZ-7187 |W32/Andromeda.A.gen!Eldorado |W32/CeeInject.AN.gen!Eldorado |
+DrWeb | Trojan.PWS.Panda.5676 |BackDoor.Andromeda.22 |Trojan.PWS.Panda.547 |
+eGambit | Unsafe.AI_Score_75% |null |Unsafe.AI_Score_61% |
+Elastic | malicious (high confidence) |malicious (high confidence) |malicious (high confidence) |
+Emsisoft | Trojan.Dropper.WYO (B) |Gen:Variant.Ser.Razy.7042 (B) |Gen:Variant.Mikey.66498 (B) |
+ESET-NOD32 | Win32/Spy.Zbot.AAU |Win32/TrojanDownloader.Wauchos.A |a variant of Win32/Kryptik.AFVU |
+F-Secure | Trojan.TR/Rogue.700416.2 |Worm.WORM/Gamarue.itza |Trojan.TR/Crypt.ZPACK.Gen2 |
+FireEye | Generic.mg.0000204fd1337637 |Gen:Variant.Ser.Razy.7042 |Generic.mg.002d8c9201971059 |
+Fortinet | W32/Kryptik.BXXO!tr |W32/Citadel.A!tr |W32/Kryptik.AFVU!tr |
+GData | Trojan.Dropper.WYO |Gen:Variant.Ser.Razy.7042 |Gen:Variant.Mikey.66498 |
+Gridinsoft | PWS.Win32.Zbot.cc!s1 |null |Trojan.Win32.Downloader.sa |
+Ikarus | Trojan.Zbot |Backdoor.Win32.Androm |Trojan.SuspectCRC |
+Jiangmin | TrojanSpy.Zbot.eetv |Backdoor/Androm.ag |TrojanSpy.Zbot.brsm |
+K7AntiVirus | Unwanted-Program ( 004a8e8b1 ) |Trojan ( 00536d121 ) |Riskware ( 0040eff71 ) |
+K7GW | Unwanted-Program ( 004a8e8b1 ) |Trojan ( 00536d121 ) |Riskware ( 0040eff71 ) |
+Kaspersky | Trojan-Spy.Win32.Zbot.sbch |Backdoor.Win32.Androm.a |HEUR:Trojan.Win32.Generic |
+Kingsoft | Win32.Troj.ZBot.sb.(kcloud) |Win32.Hack.Androm.a.(kcloud) |null |
+Lionic | Trojan.Win32.Zbot.tnc2 |Trojan.Win32.Androm.m!c |null |
+Malwarebytes | Generic.Malware/Suspicious |Generic.Malware/Suspicious |Malware.AI.4036571117 |
+MAX | malware (ai score=100) |malware (ai score=100) |malware (ai score=99) |
+MaxSecure | null |Win.MxResIcn.Heur.Gen |Trojan.Malware.4006265.susgen |
+McAfee | PWSZbot-FQY!0000204FD133 |Artemis!002E498AE7AB |PWS-Zbot.gen.bfo |
+McAfee-GW-Edition | PWSZbot-FQY!0000204FD133 |W32/Worm-FFE!92F03DCA09AC |BehavesLike.Win32.ZBot.dh |
+Microsoft | PWS:Win32/Zbot.GOV |Worm:Win32/Gamarue.I |VirTool:Win32/Injector.AX |
+MicroWorld-eScan | Trojan.Dropper.WYO |Gen:Variant.Ser.Razy.7042 |Gen:Variant.Mikey.66498 |
+NANO-Antivirus | Trojan.Win32.Zbot.cywsnj |Virus.Win32.Gen.ccmw |Trojan.Win32.Zbot.ssygo |
+Paloalto | generic.ml |generic.ml |null |
+Panda | Generic Malware |Trj/CI.A |Trj/Genetic.gen |
+Qihoo-360 | Win32/Trojan.f8e |Win32/Backdoor.Androm.HgIASOYA |HEUR/Malware.QVM08.Gen |
+Rising | Trojan.Spy.Win32.Zbot.hli (CLOUD) |Worm.Win32.Gamarue.b (C64:YzY0OkPVd5YI2RWQ) |null |
+Sangfor | Trojan.Win32.Save.a |PUP.Win32.Ulise.52016 |Trojan.Win32.Save.a |
+SentinelOne | Static AI - Malicious PE |Static AI - Suspicious SFX |Static AI - Suspicious PE |
+Sophos | Mal/Generic-R + Troj/Zbot-IIB |Mal/Generic-R |Mal/Generic-R + Troj/Agent-VQC |
+SUPERAntiSpyware | Trojan.Agent/Gen-Zbot |Trojan.Agent/Gen-Flooder |Trojan.Agent/Gen-Injector |
+Symantec | ML.Attribute.HighConfidence |Trojan.Gen.MBT |ML.Attribute.HighConfidence |
+TACHYON | Trojan-Spy/W32.ZBot.700416.O |Backdoor/W32.Androm.135747 |Trojan-Spy/W32.ZBot.231424.P |
+Tencent | Malware.Win32.Gencirc.10c6b119 |Win32.Worm.Gamarue.Ug |Malware.Win32.Gencirc.11492793 |
+TotalDefense | Win32/Zbot.TFUCQRB |null |null |
+TrendMicro | TSPY_ZBOT.SM52 |BKDR_ANDROM.SMV1 |TROJ_AGENT_033805.TOMB |
+TrendMicro-HouseCall | TSPY_ZBOT.SM52 |BKDR_ANDROM.SMV1 |TROJ_AGENT_033805.TOMB |
+VBA32 | TrojanSpy.Zbot |BScope.Backdoor.Androm |TrojanPSW.Panda |
+VIPRE | Win32.Malware!Drop |Trojan.Win32.Generic!BT |Trojan.Win32.Generic!BT |
+ViRobot | Trojan.Win32.Agent.700416.U |null |Trojan.Win32.A.Zbot.231424.I |
+Webroot | null |null |W32.Bot.Gen |
+Yandex | Trojan.PWS.Panda!fyfIciXTHF8 |Backdoor.Androm!5muhMm7wRfA |Trojan.GenAsa!p4YQ1wCChqw |
+Zillya | Trojan.Zbot.Win32.154544 |Backdoor.Androm.Win32.25444 |Trojan.Zbot.Win32.60799 |
+ZoneAlarm | Trojan-Spy.Win32.Zbot.sbch |Backdoor.Win32.Androm.a |HEUR:Trojan.Win32.Generic |
+Zoner | Trojan.Win32.23330 |null |null |
 
 ## Materials and Methods
 
