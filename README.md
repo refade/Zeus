@@ -39,7 +39,7 @@ It is included as adversity, in the combat to malicious applications, the fact o
 Antivirus | Deteccion (%) | False Negative (%) | Omission (%)
 --------- | ------------- | ------------------ | -------------
 MicroWorld-eScan |	99.41 |	0.57 |	0.02 |
-Ad-Aware	| 99.24 |	0.7 |	0.02 |
+Ad-Aware	| 99.24 |	0.73 |	0.02 |
 BitDefender	| 99.19 |	0.57 | 0.23 |
 ESET-NOD32 | 98.94 |	1.02 |	0.04 |
 GData |	98.88 |	0.59 | 0.53 |
